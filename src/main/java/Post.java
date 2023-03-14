@@ -8,7 +8,7 @@ public class Post {
 
     public FormDate birthday;
 
-    public FormPass passport;
+    public String passport;
 
 
 
